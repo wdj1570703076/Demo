@@ -1,0 +1,5 @@
+com\cn\hnust\pojo\User.class
+com\cn\hnust\service\impl\UserServiceImpl.class
+com\cn\hnust\service\IUserService.class
+com\cn\hnust\controller\UserController.class
+com\cn\hnust\dao\IUserDao.class
